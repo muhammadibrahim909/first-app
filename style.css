@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    background-color: #333;
+    padding: 10px;
+}
+
+
+.navbar-menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+.navbar-menu li {
+    margin: 0 15px;
+}
+
+.navbar-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.navbar-menu a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+
+
+
+
